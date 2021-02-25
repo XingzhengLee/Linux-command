@@ -11,7 +11,7 @@ done
 # pattern 2
 
 cat FILE_PATH | while read line
-done
+do
 	cmd
 done
 
